@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003342353735",
+    "firebase_url": "https://ncovi-31be6.firebaseio.com",
+    "project_id": "ncovi-31be6",
+    "storage_bucket": "ncovi-31be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003342353735:android:3dc32b0cb3405608a0a862",
+        "android_client_info": {
+          "package_name": "com.ncovi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003342353735-h24klcnertuqhq78datv7pfnlb1trrh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKfunNrfRkuQ-6zhpCa5l4pL0HxHubWro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003342353735-h24klcnertuqhq78datv7pfnlb1trrh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
